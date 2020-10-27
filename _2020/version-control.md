@@ -512,7 +512,7 @@ hosts, like [GitLab](https://about.gitlab.com/) and
 Going through Chapters 1--5 should teach you most of what you need to use Git
 proficiently, now that you understand the data model. The later chapters have
 some interesting, advanced material.
-- [Oh Shit, Git!?!](https://ohshitgit.com/) is a short guide on how to recover
+- [Oh Sh*t, Git!?!](https://ohshitgit.com/) is a short guide on how to recover
 from some common Git mistakes.
 - [Git for Computer
 Scientists](https://eagain.net/articles/git-for-computer-scientists/) is a
